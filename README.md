@@ -56,6 +56,7 @@ llm based project -> RAG and Agent
 ```
 
 # Folder Structure
+```
 setup.py -> install project as a package
 Logging -> for performing logging , dump log
 Exception -> implement custom exception, raise and log it
@@ -71,3 +72,16 @@ prompt - prompt details
 app.py - 
 templates - ui components , html
 static - js files, css components
+```
+
+# Minimum Requirement 
+
+```
+1. LLM Model - groq, openai, gemini, calude, huggingface, ollama
+2. Embedding Model - openai, huggingface, gemini
+3. vectordatabase - cloud 
+    3 variant 
+        1. in memory
+        2. ondisk
+        3. cloudbased
+```
