@@ -91,4 +91,7 @@ static - js files, css components
 ```
 .env
 aws secret manager - industry grade practice
+
+GROQ_API_KEY=your_groq_api_key_here
+GEMINI_API_KEY= your_gemini_api_key_here
 ```
