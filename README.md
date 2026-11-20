@@ -54,3 +54,20 @@ Monolith Architecture and microservice Architecture
 ci cd pipeline
 llm based project -> RAG and Agent 
 ```
+
+# Folder Structure
+setup.py -> install project as a package
+Logging -> for performing logging , dump log
+Exception -> implement custom exception, raise and log it
+src -> sourcecode complete code base 
+    doccompare
+    docanalysier
+    multidocchat
+    singledocchat
+utlis - keep all utilities in this folder
+notebook - experiments.ipynb
+config - to manage all the configuration for this project
+prompt - prompt details
+app.py - 
+templates - ui components , html
+static - js files, css components
