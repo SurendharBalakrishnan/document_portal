@@ -85,3 +85,10 @@ static - js files, css components
         2. ondisk
         3. cloudbased
 ```
+
+# environment setup - deployment 
+
+```
+.env
+aws secret manager - industry grade practice
+```
