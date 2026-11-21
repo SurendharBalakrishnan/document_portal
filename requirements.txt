@@ -6,4 +6,9 @@ langchain_google_genai
 langchain_community
 pypdf
 faiss-cpu
+
+# replace gemini api key 
+langchain-huggingface
+sentence-transformers
+langchain-openai
 -e .
