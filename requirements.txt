@@ -11,4 +11,7 @@ langchain-core
 langchain-huggingface
 sentence-transformers
 langchain-openai
+# logging
+structlog
+PyMuPDF
 -e .

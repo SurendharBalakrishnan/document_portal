@@ -1,4 +1,13 @@
+#python cache and virtual environment
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+*.egg-info/
+*.egg
+*.log
 env/
 venv/
 .env
-document_portal.egg-info
+test.py
